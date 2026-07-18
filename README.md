@@ -1,1 +1,1 @@
-# .github-copilot-instructions.md
+# .github-wxp-copilot-library.md
